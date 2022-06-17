@@ -1,0 +1,2 @@
+yoonsewon_description
+-DCATKIN_DEVEL_PREFIX=/home/jookbooin/jook_drone/devel -DCMAKE_INSTALL_PREFIX=/home/jookbooin/jook_drone/install -G Unix Makefiles
